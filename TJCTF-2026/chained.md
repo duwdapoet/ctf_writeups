@@ -28,3 +28,4 @@ Submit it and my webhook has request with the flag:
 
 Flag: tjctf{ch41n3d_o340e934l35d}
 
+<img width="917" height="437" alt="image" src="https://github.com/user-attachments/assets/fd61b048-c106-4f6b-99c9-a60615fe581c" />
