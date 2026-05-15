@@ -2,7 +2,7 @@ Still simple, i think? Anyway, we have 2 websites:
 - https://chained.tjc.tf/
 - https://admin-bot.tjctf.org/chained
 
-The first one allow us to submit a URL and let the bot visit, but it has filters:
+The first one allow us to submit an URL and let the bot visit, but it has filters:
 <img width="1308" height="89" alt="image" src="https://github.com/user-attachments/assets/7a1fdc98-f3be-4df0-914d-f915dc736bc1" />
 
 The second website allow us to send an URL started with https://chained.tjc.tf/admin/
