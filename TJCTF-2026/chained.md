@@ -12,7 +12,7 @@ Here is the source code:
 
 We know that flag will be loaded when we submit URL so i will leak the flag using fetch.
 
-If we submit an URL in the first website, the URL will beocome like this:
+If we submit an URL in the first website, the URL will become like this:
 <img width="920" height="499" alt="image" src="https://github.com/user-attachments/assets/1744cc21-e5ea-4cba-b7b6-a4f5eee17b55" />
 
 So we can use it to fetch the flag to our site.
